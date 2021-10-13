@@ -1,0 +1,8 @@
+.todos-container {
+    padding-top: 1rem;
+}
+
+.todo {
+    text-decoration: none;
+    color: #1B2631;
+}

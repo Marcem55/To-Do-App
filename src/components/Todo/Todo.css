@@ -1,0 +1,8 @@
+.todoText {
+    margin: 0;
+    color: #1B2631;
+}
+
+.todoText:hover {
+    color: blue;
+}
