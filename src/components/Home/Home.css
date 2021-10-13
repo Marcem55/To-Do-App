@@ -1,3 +1,13 @@
+@media (min-width: 768px) {
+    .home-container {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        max-width: 120rem;
+        background-color: #FCF3CF;
+        border-radius: 8px;
+    }
+}
+
 .home-container {
     max-width: 120rem;
     background-color: #FCF3CF;
